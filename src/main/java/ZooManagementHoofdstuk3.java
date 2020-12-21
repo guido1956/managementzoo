@@ -20,6 +20,6 @@ public class ZooManagementHoofdstuk3 {
         System.out.print("Dat is ");
         System.out.print(12 * 12.5);
         System.out.println(" maanden");
-        System.out.printf("Onze tijger is %.1f jaar oud\nDat is %.1f maanden", 12.5, 12*12.5);
+        System.out.printf("Onze tijger is %.1f jaar oud\nDat is %.1f maanden\n", 12.5, 12*12.5);
     }
 }
