@@ -8,13 +8,13 @@ public class ZooManagementHoofdstuk3 {
         //Werken met ints en printstatements
         System.out.print("Onze tijger is ");
         System.out.print(12);
-        System.out.println(" jaar");
+        System.out.println(" jaar oud");
         System.out.print("Dat is ");
         System.out.print(12 * 12);
         System.out.println(" maanden");
-        System.out.printf("Onze tijger is %d jaar oud\nDat is %d maanden", 12, 12*12);
+        System.out.printf("Onze tijger is %d jaar oud\nDat is %d maanden\n", 12, 12*12);
         //Werken met doubles en printstatements
-        System.out.println("Onze tijger is ");
+        System.out.print("Onze tijger is ");
         System.out.print(12.5);
         System.out.println(" jaar");
         System.out.print("Dat is ");
