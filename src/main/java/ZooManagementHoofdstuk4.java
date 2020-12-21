@@ -1,4 +1,4 @@
-public class ZooManagementHoofdstuk3 {
+public class ZooManagementHoofdstuk4 {
      public static void main(String[] args) {
         // Werken met Strings en printstatements
         System.out.println("Onze tijger heet Zigro");   //literal + newline
