@@ -12,7 +12,8 @@ public class ZooManagementHoofdstuk15 {
 
         double prijsZonderKortingVolwassenen = berekenPrijsZonderKorting("volwassenen" , aantalVolwassenen);
         double prijsZonderKortingKinderen = berekenPrijsZonderKorting("kinderen" , aantalKinderen);
-        double prijsTotaalZonderKorting= berekenTotaalprijsZonderKorting(prijsZonderKortingVolwassenen, prijsZonderKortingKinderen);
+        double prijsTotaalZonderKorting= berekenTotaalprijsZonderKorting(prijsZonderKortingVolwassenen,
+                prijsZonderKortingKinderen);
 
         boolean krijgtKorting = rechtOpKorting(aantalVolwassenen, aantalKinderen);
         double korting = 0.00;
