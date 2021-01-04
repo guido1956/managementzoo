@@ -7,6 +7,7 @@ public class ZooManagementHoofdstuk15 {
     }
 
     public static void kopenGroepskaart() {
+
         int aantalVolwassenen = bepaalAantal("volwassenen");
         int aantalKinderen = bepaalAantal("kinderen");
 
